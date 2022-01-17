@@ -1,9 +1,9 @@
 # Hi there, I'm Andrés 👋
 
-:computer: Backend Developer
+:computer: Full Stack Developer
 Living in Colombia
 
-- 🔭 Looking for Backend Development opportunities!!
+- 🔭 Looking for Full Stack  Development opportunities!!
 - 🥅 I'm interested in learning Go.
 
 ### :zap: Recent Activity
